@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "lib": [ "esnext" ],
+    "listEmittedFiles": true,
+    "listFiles": true,
+    "module": "system",
+    "moduleResolution": "node",
+    "newLine": "lf",
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noResolve": true,
+    "rootDir": ".",
+    "strictNullChecks": true,
+    "target": "esnext",
+    "types": ["node"]
+  }
+}

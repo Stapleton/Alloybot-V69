@@ -1,0 +1,22 @@
+{
+  "extends": "../tsconfig-base.json",
+  "compilerOptions": {
+    "outFile": "../../out/core.js"
+  },
+  "files": [
+    "index.ts",
+
+    "util/Logger.ts"
+  ],
+  "references": [
+    { "path": "../commands", "prepend": true },
+    { "path": "../mixer", "prepend": true },
+    { "path": "../moderation", "prepend": true },
+    { "path": "../musicbot", "prepend": true },
+    { "path": "../ranks", "prepend": true },
+    { "path": "../roleman", "prepend": true },
+    { "path": "../timers", "prepend": true },
+    { "path": "../twitch", "prepend": true },
+    { "path": "../webpanel", "prepend": true }
+  ]
+}
