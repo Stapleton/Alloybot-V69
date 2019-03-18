@@ -18,9 +18,9 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noResolve": true,
     "rootDir": ".",
     "strictNullChecks": true,
-    "target": "esnext"
+    "target": "esnext",
+    "types": ["node", "signale"]
   }
 }
