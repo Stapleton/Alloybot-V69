@@ -6,7 +6,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "inlineSourceMap": true,
-    "lib": [ "esnext" ],
+    "lib": ["esnext"],
     "listEmittedFiles": true,
     "listFiles": true,
     "module": "system",
@@ -21,7 +21,6 @@
     "noResolve": true,
     "rootDir": ".",
     "strictNullChecks": true,
-    "target": "esnext",
-    "types": ["node"]
+    "target": "esnext"
   }
 }
