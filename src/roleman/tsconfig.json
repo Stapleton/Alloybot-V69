@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outFile": "../../out/roleman.js"
+    "outDir": "../../out/roleman"
   },
   "files": [
     "index.ts"

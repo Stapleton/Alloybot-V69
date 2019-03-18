@@ -1,9 +1,10 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outDir": "../../out/moderation"
+    "outDir": "../../out/api"
   },
   "files": [
-    "index.ts"
+    "Logger.ts",
+    "PluginBase.ts"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outFile": "../../out/commands.js"
+    "outDir": "../../out/commands"
   },
   "files": [
     "index.ts"

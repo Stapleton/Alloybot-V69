@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outFile": "../../out/musicbot.js"
+    "outDir": "../../out/musicbot"
   },
   "files": [
     "index.ts"
