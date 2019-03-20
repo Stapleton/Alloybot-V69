@@ -1,7 +1,7 @@
 {
-  "name": "xombiebot",
+  "name": "alloybot-v69",
   "version": "0.0.0",
-  "description": "Multipurpose bot for the Xombie clan to replace their multitude of bots with one.",
+  "description": "Secret Project",
   "main": "index.js",
   "scripts": {
     "postinstall": "tsc -b ./src/tsconfig.json",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stapleton/XombieBot.git"
+    "url": "git+https://github.com/Stapleton/Alloybot-V69.git"
   },
   "author": "Rubber, Stapleton, Ironivel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Stapleton/XombieBot/issues"
+    "url": "https://github.com/Stapleton/Alloybot-V69/issues"
   },
-  "homepage": "https://github.com/Stapleton/XombieBot#readme",
+  "homepage": "https://github.com/Stapleton/Alloybot-V69#readme",
   "dependencies": {
     "@endemolshinegroup/cosmiconfig-typescript-loader": "^1.0.0",
     "@types/node": "^11.11.3",
