@@ -1,7 +1,7 @@
 {
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
-    "outDir": "../../out/webpanel"
+    "outDir": "../../out"
   },
   "files": [
     "index.ts"
