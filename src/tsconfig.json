@@ -1,6 +1,12 @@
 {
-  "files": [],
+  "extends": "./tsconfig-base.json",
+  "compilerOptions": {
+    "outDir": "../out"
+  },
   "references": [
     { "path": "./core" }
+  ],
+  "exclude": [
+    "./testing/**/*"
   ]
 }
