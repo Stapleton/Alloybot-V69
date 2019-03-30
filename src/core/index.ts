@@ -6,7 +6,7 @@ class Core {
   private plugins: Map<string, PluginBase> = new Map();
 
   constructor() {
-
+    this.logger.pending(`Starting...`);
   }
 
   public register(plugin: PluginBase) {

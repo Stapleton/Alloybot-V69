@@ -9,5 +9,4 @@ class Musicbot extends PluginBase {
   public test(): string {
     return 'test';
   }
-
 }

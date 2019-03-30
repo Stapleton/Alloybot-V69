@@ -6,6 +6,8 @@
   "files": [
     "Logger.ts",
     "PluginBase.ts",
-    "Event.ts"
+    "Event.ts",
+    "Register.ts",
+    "index.ts"
   ]
 }
